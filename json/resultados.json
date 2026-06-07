@@ -1,0 +1,12 @@
+{
+  "quantidade-jogadores": 6,
+  "data": "11-nov-25",
+  "1": {
+    "ganhador": 2,
+    "perdedor": 1,
+    "nome-ganhador": "jogador B",
+    "nome-perdedor": "jogador A",
+    "sets-ganhador": 1,
+    "sets-perdedor": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "quantidade-jogadores": 6,
+  "jogadores": {
+    "1": "jogador A",
+    "2": "jogador B",
+    "3": "jogador C",
+    "4": "jogador D",
+    "5": "jogador E",
+    "6": "jogador F"
+  }
+}
